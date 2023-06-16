@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alim Satria</h1>
-<h3 align="center">A passionate hardware engineer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=justraven&label=Profile%20views&color=0e75b6&style=flat" alt="justraven" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=justraven&label=Profile%20views&color=0e75b6&style=flat" alt="justraven" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://justraven.github.io/portfolio](https://justraven.github.io/portfolio)
 
