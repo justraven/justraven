@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=justraven&label=Profile%20views&color=0e75b6&style=flat" alt="justraven" /> </p>
 
-- 👨‍💻 All of my projects are available at [portfolio](https://justraven.github.io/portfolio)
+- 👨‍💻 All of my projects are available at [portfolio](https://justraven.github.io/gitprofile)
 
 - 📫 How to reach me **alimsatria45@outlook.com**
 
